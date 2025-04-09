@@ -1,4 +1,5 @@
 
+
 using BCrypt.Net;
 
 public class Hash

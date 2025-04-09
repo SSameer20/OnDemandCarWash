@@ -9,6 +9,7 @@ E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\AutoMapper.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Azure.Core.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Azure.Identity.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Humanizer.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
@@ -32,10 +33,14 @@ E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Confi
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -66,7 +71,9 @@ E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.IdentityModel.Token
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.IO.Pipelines.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Memory.Data.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Security.Permissions.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\System.Text.Json.dll
@@ -146,6 +153,7 @@ E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Mi
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
@@ -156,6 +164,7 @@ E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.sourcelink.json
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\staticwebassets.build.json
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\staticwebassets.development.json
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
@@ -170,4 +179,3 @@ E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\refint\backend.dll
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.pdb
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 E:\capgemini\OnDemandCarWash\backend\obj\Debug\net8.0\ref\backend.dll
-E:\capgemini\OnDemandCarWash\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
